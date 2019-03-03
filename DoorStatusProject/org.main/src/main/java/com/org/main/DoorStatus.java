@@ -2,6 +2,6 @@ package com.org.main;
 
 public interface DoorStatus {
 
-	public String getDoorStatus(int i);
+	public String getDoorStatus(Integer door);
 
 }
